@@ -1,8 +1,7 @@
 # Optimization
-Optimization models in Python and Julia
+- Optimization models in Python and Julia
 
-- Here you will find various uses cases related to Optimization
-
+Here you will find various uses cases related to Optimization
 
 - Bassel Accords
 
