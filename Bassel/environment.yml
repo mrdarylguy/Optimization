@@ -1,0 +1,8 @@
+name: Basel
+channels:
+- defaults
+- Julia 1.6
+dependencies:
+- Plots = 1.22.1
+- JuMP = 0.21.0
+- Cbc = 0.21.10
