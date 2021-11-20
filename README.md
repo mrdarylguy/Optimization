@@ -17,6 +17,5 @@ Pkg.add("Plots")
 ```
 
 The following depencies are required to be installed from the command line
-```
-pip3 install google or-tools
-```
+```pip3 install google or-tools```
+
