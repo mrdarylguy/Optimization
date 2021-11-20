@@ -1,9 +1,13 @@
 # Optimization
 - Optimization models in Python and Julia
+<hr>
 
-Here you will find various uses cases related to Optimization
+These optimization tasks are centered around finding the best possible outcome
 
-- Bassel Accords
 
-One of those is the Bassel Accords, a set of laws meant to regulate risk management in financial institutions. 
-I demonstrate how they can be structured as an optimization problem.
+```julia
+Using Pkg
+Pkg.add("Cbc")
+Pkg.add("Plots")
+```
+
