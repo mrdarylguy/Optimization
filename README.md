@@ -9,6 +9,7 @@ They use *JuMP*, Julia's optimization library.
 
 The following depencies are required to be installed from the Julia REPL
 <hr>
+
 ```julia
 Using Pkg
 Pkg.add("JuMP")
@@ -18,5 +19,6 @@ Pkg.add("Plots")
 
 The following depencies are required to be installed from the command line
 <hr>
+
 ```pip3 install google or-tools```
 
