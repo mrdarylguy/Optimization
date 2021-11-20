@@ -16,3 +16,7 @@ Pkg.add("Cbc")
 Pkg.add("Plots")
 ```
 
+The following depencies are required to be installed from the command line
+```python
+pip3 install google or-tools
+```
