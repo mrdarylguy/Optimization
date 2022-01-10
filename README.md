@@ -1,5 +1,5 @@
 # Optimization
-- Optimization models in Python and Julia
+- Python and Julia Code for the NTU module MH3701 Basic Optimization, and other optimization models.
 <hr>
 
 These optimization tasks are centered around finding the best possible outcome.
