@@ -4,10 +4,10 @@
 
 These optimization tasks are centered around finding the best possible outcome.
 
-They use *JuMP*, Julia's optimization library, and *Google OR-tools*, Google's open source optimization library
+They use **JuMP**, Julia's optimization library, and **Google OR-tools**, Google's open source optimization library
 
 
-The following depencies are required to be installed from the *Julia REPL*
+The following depencies are required to be installed from the **Julia REPL**
 <hr>
 
 ```julia
